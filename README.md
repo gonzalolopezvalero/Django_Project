@@ -6,7 +6,7 @@ Requisitos
  - virtualenv
 
 ```bash
-git clone 
+git clone https://github.com/gonzalolopezvalero/Django_Project.git
 cd ccotec
 source myenv/bin/activate
 python manage.py runserver
